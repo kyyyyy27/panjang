@@ -20,8 +20,8 @@ global.APIKeys = {
 // Other
 global.owner = ['6283830815715']
 global.premium = ['6283830815715']
-global.namaowner = ['Y𝖆кuz𝖆']
-global.namabot = ['Kyy Bot']
+global.namaowner = ['Kyy!!']
+global.namabot = ['YakuzaaBot']
 global.packname = 'Yakuzaa'
 global.author = 'MD'
 global.sessionName = 'session'
